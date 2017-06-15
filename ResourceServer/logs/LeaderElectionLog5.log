@@ -1,0 +1,17 @@
+2017-06-01 19:42:53,297 [LeaderElectionProtocol.java:main:129] - Current Node Server Information - Node- 5 IP: 127.0.0.1 Port: 9040
+2017-06-01 19:42:53,297 [LeaderElectionProtocol.java:main:134] - LEPserverSocket binded to port 9040
+2017-06-01 19:42:54,912 [LeaderElectionProtocol.java:Thread-4:614] - [R] Key Part - 0 from Node- 4
+2017-06-01 19:42:54,918 [LeaderElectionProtocol.java:Thread-4:614] - [R] Key Part - 1 from Node- 4
+2017-06-01 19:42:54,926 [LeaderElectionProtocol.java:Thread-4:614] - [R] Key Part - 2 from Node- 4
+2017-06-01 19:42:54,932 [LeaderElectionProtocol.java:Thread-4:614] - [R] Key Part - 3 from Node- 4
+2017-06-01 19:42:54,936 [LeaderElectionProtocol.java:Thread-4:614] - [R] Key Part - 4 from Node- 4
+2017-06-01 19:42:55,681 [LeaderElectionProtocol.java:Thread-4:614] - [R] Key Part - 0 from Node- 3
+2017-06-01 19:42:55,703 [LeaderElectionProtocol.java:Thread-4:614] - [R] Key Part - 1 from Node- 3
+2017-06-01 19:42:55,709 [LeaderElectionProtocol.java:Thread-4:614] - [R] Key Part - 2 from Node- 3
+2017-06-01 19:42:55,712 [LeaderElectionProtocol.java:Thread-4:614] - [R] Key Part - 3 from Node- 3
+2017-06-01 19:42:55,718 [LeaderElectionProtocol.java:Thread-4:614] - [R] Key Part - 4 from Node- 3
+2017-06-01 19:42:57,346 [LeaderElectionProtocol.java:Thread-4:614] - [R] Key Part - 0 from Node- 1
+2017-06-01 19:42:57,353 [LeaderElectionProtocol.java:Thread-4:614] - [R] Key Part - 1 from Node- 1
+2017-06-01 19:42:57,358 [LeaderElectionProtocol.java:Thread-4:614] - [R] Key Part - 2 from Node- 1
+2017-06-01 19:42:57,361 [LeaderElectionProtocol.java:Thread-4:614] - [R] Key Part - 3 from Node- 1
+2017-06-01 19:42:57,367 [LeaderElectionProtocol.java:Thread-4:614] - [R] Key Part - 4 from Node- 1

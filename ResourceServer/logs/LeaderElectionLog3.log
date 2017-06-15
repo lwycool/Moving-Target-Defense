@@ -1,0 +1,32 @@
+2017-06-01 19:42:53,287 [LeaderElectionProtocol.java:main:129] - Current Node Server Information - Node- 3 IP: 127.0.0.1 Port: 7040
+2017-06-01 19:42:53,287 [LeaderElectionProtocol.java:main:134] - LEPserverSocket binded to port 7040
+2017-06-01 19:42:54,903 [LeaderElectionProtocol.java:Thread-2:614] - [R] Key Part - 0 from Node- 4
+2017-06-01 19:42:54,916 [LeaderElectionProtocol.java:Thread-2:614] - [R] Key Part - 1 from Node- 4
+2017-06-01 19:42:54,925 [LeaderElectionProtocol.java:Thread-2:614] - [R] Key Part - 2 from Node- 4
+2017-06-01 19:42:54,931 [LeaderElectionProtocol.java:Thread-2:614] - [R] Key Part - 3 from Node- 4
+2017-06-01 19:42:54,935 [LeaderElectionProtocol.java:Thread-2:614] - [R] Key Part - 4 from Node- 4
+2017-06-01 19:42:55,664 [LeaderElectionProtocol.java:LEP3:578] - [S] Key Part - 0 to Node- 1
+2017-06-01 19:42:55,667 [LeaderElectionProtocol.java:LEP3:578] - [S] Key Part - 0 to Node- 2
+2017-06-01 19:42:55,678 [LeaderElectionProtocol.java:LEP3:578] - [S] Key Part - 0 to Node- 4
+2017-06-01 19:42:55,680 [LeaderElectionProtocol.java:LEP3:578] - [S] Key Part - 0 to Node- 5
+2017-06-01 19:42:55,687 [LeaderElectionProtocol.java:LEP3:578] - [S] Key Part - 1 to Node- 1
+2017-06-01 19:42:55,691 [LeaderElectionProtocol.java:LEP3:578] - [S] Key Part - 1 to Node- 2
+2017-06-01 19:42:55,701 [LeaderElectionProtocol.java:LEP3:578] - [S] Key Part - 1 to Node- 4
+2017-06-01 19:42:55,702 [LeaderElectionProtocol.java:LEP3:578] - [S] Key Part - 1 to Node- 5
+2017-06-01 19:42:55,707 [LeaderElectionProtocol.java:LEP3:578] - [S] Key Part - 2 to Node- 1
+2017-06-01 19:42:55,707 [LeaderElectionProtocol.java:LEP3:578] - [S] Key Part - 2 to Node- 2
+2017-06-01 19:42:55,708 [LeaderElectionProtocol.java:LEP3:578] - [S] Key Part - 2 to Node- 4
+2017-06-01 19:42:55,708 [LeaderElectionProtocol.java:LEP3:578] - [S] Key Part - 2 to Node- 5
+2017-06-01 19:42:55,709 [LeaderElectionProtocol.java:LEP3:578] - [S] Key Part - 3 to Node- 1
+2017-06-01 19:42:55,709 [LeaderElectionProtocol.java:LEP3:578] - [S] Key Part - 3 to Node- 2
+2017-06-01 19:42:55,710 [LeaderElectionProtocol.java:LEP3:578] - [S] Key Part - 3 to Node- 4
+2017-06-01 19:42:55,712 [LeaderElectionProtocol.java:LEP3:578] - [S] Key Part - 3 to Node- 5
+2017-06-01 19:42:55,713 [LeaderElectionProtocol.java:LEP3:578] - [S] Key Part - 4 to Node- 1
+2017-06-01 19:42:55,715 [LeaderElectionProtocol.java:LEP3:578] - [S] Key Part - 4 to Node- 2
+2017-06-01 19:42:55,716 [LeaderElectionProtocol.java:LEP3:578] - [S] Key Part - 4 to Node- 4
+2017-06-01 19:42:55,717 [LeaderElectionProtocol.java:LEP3:578] - [S] Key Part - 4 to Node- 5
+2017-06-01 19:42:57,342 [LeaderElectionProtocol.java:Thread-2:614] - [R] Key Part - 0 from Node- 1
+2017-06-01 19:42:57,347 [LeaderElectionProtocol.java:Thread-2:614] - [R] Key Part - 1 from Node- 1
+2017-06-01 19:42:57,355 [LeaderElectionProtocol.java:Thread-2:614] - [R] Key Part - 2 from Node- 1
+2017-06-01 19:42:57,359 [LeaderElectionProtocol.java:Thread-2:614] - [R] Key Part - 3 from Node- 1
+2017-06-01 19:42:57,366 [LeaderElectionProtocol.java:Thread-2:614] - [R] Key Part - 4 from Node- 1
